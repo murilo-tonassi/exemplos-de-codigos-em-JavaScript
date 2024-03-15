@@ -10,7 +10,7 @@
  
 # Exemplos de códigos em JavaScript
  
-## Descrição 📖
+## Descrição📖
 - Este projeto visa aprofundar o conhecimento em programação JavaScript, fornecendo uma oportunidade para os estudantes explorarem e implementarem códigos JavaScript prontos encontrados na internet. Os participantes selecionarão dois códigos distintos, cada um com uma funcionalidade específica, e os implementarão usando o ambiente de desenvolvimento VSCode. Ao analisar e compreender a lógica por trás de cada código, os estudantes irão investigar o significado de cada componente e aprender a documentar suas descobertas. A entrega final consistirá na descrição das funcionalidades dos códigos selecionados, detalhando sua implementação e explicando seu funcionamento no arquivo README de um repositório GitHub.
 
 ## Exemplo 1 💻
