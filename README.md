@@ -23,7 +23,7 @@ Esse código em JavaScript imprime a data e hora atuais no navegador do usuário
 
 Esse código é útil para mostrar a data e hora atuais em uma página da web, por exemplo, em um site de notícias ou em um blog onde a data e hora de publicação são importantes.
 
-## Exemplo 2 💻
+## Exemplo 2💻
 
 Esse código em JavaScript exibe uma mensagem após um atraso de 3 segundos quando o link é clicado. Aqui está uma explicação detalhada:
 
