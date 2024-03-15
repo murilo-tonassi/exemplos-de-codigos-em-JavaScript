@@ -41,7 +41,7 @@ Esse código é útil para situações em que você deseja exibir uma mensagem d
 ## Funcionalidades 🧠
 - Este projeto tem como objetivo explorar e implementar dois códigos JavaScript pré-existentes encontrados na internet. Os códigos selecionados apresentam funcionalidades distintas, como exibir a data e hora atuais e mostrar uma mensagem após um atraso específico. A finalidade deste projeto é permitir que os estudantes compreendam a lógica por trás de códigos prontos, investiguem e identifiquem o significado de cada componente nos códigos escolhidos, e, por fim, descrevam suas funcionalidades no arquivo README do repositório do GitHub. Além disso, os estudantes terão a oportunidade de praticar habilidades de implementação de código em JavaScript usando o VSCode, bem como aprender a documentar e explicar o funcionamento de projetos de software.
  
-## Tecnologias Utilizadas 🖥️  
+## Tecnologias Utilizadas🖥️  
 - Visual Studio Code;
 - Github;
 - Git;
