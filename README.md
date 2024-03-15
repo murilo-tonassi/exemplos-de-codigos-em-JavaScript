@@ -46,7 +46,7 @@ Esse código é útil para situações em que você deseja exibir uma mensagem d
 - Github;
 - Git;
 - HTML5;
-- JavaScript;
+- JavaScript.
 
  
 ## Fontes Consultadas 🔗
